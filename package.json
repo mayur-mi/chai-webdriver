@@ -26,7 +26,7 @@
   },
   "dependencies": {
     "string": "^3.0.0",
-    "webdriver-sizzle": ">= 0.2.1"
+    "webdriver-sizzle": "git+https://github.com/mayur-mi/webdriver-sizzle.git"
   },
   "devDependencies": {
     "coffee-script": "^1.7.1",
